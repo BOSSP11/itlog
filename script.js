@@ -7,7 +7,7 @@ document.querySelector('button').addEventListener('click', function () {
   const links = {
     'cute': 'https://youtu.be/U06Oqye8_Yk?si=XXmClYkLftw4h1TU', // replace with your actual link
     'pretty': 'https://youtu.be/MD2xgAvyhpo?si=us3SaopNhSkVg-mE', // replace with your actual link
-    'adorable': 'https://youtu.be/cQkVRjW0fH4?si=qRseeB6Fi_eajlF9', // replace with your actual link
+    'adorable': 'https://www.youtube.com/watch?v=peV40YjKcfo', // replace with your actual link
     'abunjing': 'https://youtu.be/dstuitW8PWM?si=ZVHKuJTw60nGNx1l', // replace with your actual link
   };
 
